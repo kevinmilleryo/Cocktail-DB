@@ -1,0 +1,31 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+.content {
+  margin-left: 50px;
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin-left: 50px;
+  height: 200px
+}
+ul {
+  list-style: none;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+body {
+  background-color: orange;
+  color: yellow;
+  font-family: 'Joan', serif;
+}
