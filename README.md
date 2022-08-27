@@ -1,7 +1,7 @@
 # Cocktail-DB
 Cocktail DB API
 
-A site where users can search for cocktail recipes.  
+A site where users can search for cocktail recipes. Made using HTML, CSS, & Javascript.
 
 ![Screenshot](CocktailDBsite.png)
 
