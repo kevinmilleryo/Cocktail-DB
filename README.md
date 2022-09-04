@@ -6,3 +6,7 @@ A site where users can search for cocktail recipes. Made using HTML, CSS, & Java
 ![Screenshot](CocktailDBsite.png)
 
 https://cocktailsearchdb.netlify.app/
+
+
+
+Lessons Learned: Learned how to fetch data from an API and print it to the DOM.
